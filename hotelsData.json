@@ -1,0 +1,28 @@
+[
+  {
+    "cityId": "10001",
+    "hotelId": "10001400",
+    "address": "ecr#2,chennai",
+    "picture": "s3//chennai/400/pics",
+    "rating": 4.1,
+    "price": "4500",
+    "noofroom": 3,
+    "noofbath": 3,
+    "numofguest": 3,
+    "createDate": "12/12/2020",
+    "contact": "(+91)8073546562"
+  },
+  {
+    "cityId": "10002",
+    "hotelId": "10001500",
+    "address": "ecr#2,bangalore",
+    "picture": "s3//bang/500/pics",
+    "rating": 4.7,
+    "price": "4500",
+    "noofroom": 3,
+    "noofbath": 3,
+    "numofguest": 3,
+    "createDate": "12/12/2020",
+    "contact": "(+91)8073546562"
+  }
+]
