@@ -22,7 +22,6 @@ phases:
       - echo Testing...
       - npm install
       - echo Building...
-      - npm test
       - npm build
     #test
     #build
