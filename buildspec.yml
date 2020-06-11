@@ -22,7 +22,8 @@ phases:
       - echo Testing...
       - npm install
       - echo Building...
-      - npm start
+      - npm test
+      - npm build
     #test
     #build
     artifacts:
