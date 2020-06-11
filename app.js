@@ -11,7 +11,7 @@ var hotelProfileRoute = require("./routes/hotelprofile");
 var searchRoute = require("./routes/search");
 var bookingRoute = require("./routes/booking");
 // var userProfileRoute = require("./routes/useraProfile");
-var userProfileRoute = require("./routes/userProfile");
+var userProfileRoute = require("./routes/userprofile");
 
 app.use(logger("dev"));
 app.use(bodyParser.json());
