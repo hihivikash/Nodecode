@@ -23,7 +23,7 @@ app.use("/search", searchRoute);
 app.use("/book", bookingRoute);
 app.use("/user", userProfileRoute);
 app.get("/", function (req, res) {
-  res.send({ title: "hotels API Entry Poins" });
+  res.send('<h1 style="color:blue;">You have reached Hotel Entry Points</h1> \n');
 });
 
 app.listen(process.env.PORT, () =>
